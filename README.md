@@ -76,7 +76,7 @@ Nest is [MIT licensed](LICENSE).
 ## Diagrams
 ```mermaid
 flowchart TD
- A[Hard] -->|Text| B(Round)
+ A[Hard] -->|Cal| B(Round)
 B --> C{Decision}
 C -->|One| D[Result 1]
 C -->|Two| E[Result 2]
